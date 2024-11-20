@@ -26,3 +26,16 @@ https://colab.research.google.com/drive/1XwmgVUJKQvTzqR0ull21XjNNwLq1xib8?usp=sh
 3) Run the notebook
 
 4) Go to the link given by ngrok , enter the generated tunnel password [IP address] if prompted
+
+
+Steps to run Stress Detection model :
+
+1) go to this colab link or use notebook uploaded to this repo "
+
+   https://colab.research.google.com/drive/1C41C9o65cxG-MqU1rcjunmmhMvh5jEof?usp=sharing
+
+2) Create a copy of this , upload HCI data in google drive , mount the drive in colab
+
+3) Run the notebook.
+
+   
